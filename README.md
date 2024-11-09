@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Siming Huang, a MCS student at @unimelb. Feel free to reach me: simihuang@student.unimelb.edu.au
 
 - 🔭 I have been always chasing for AGI.
-- 💼 I’m currently working on Code LLM.
+- 💼 I’m currently working on Code LLM and LLM reasoning.
 - 🌱 I'm currently looking for a suitable PhD position.
 - 🎵 I'm passionate about music as my interest.
