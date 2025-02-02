@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Siming Huang, a MCS student at @unimelb. Feel free to reach me: simihuang@student.unimelb.edu.au
+I'm Siming Huang, a MCS student at @unimelb. Feel free to reach me: 181860034@smail.nju.edu.cn
 
 - 🔭 I have been always chasing for AGI.
 - 💼 I’m currently working on Code LLM and LLM reasoning.
